@@ -1,0 +1,13 @@
+{
+    "mssql.connections": [
+        {
+            "server": "dev-ui-db1",
+            "database": "reporting",
+            "authenticationType": "Integrated",
+            "profileName": "dev-ui-db1",
+            "password": ""
+        }
+    ],
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Consolas, Menlo, Monaco, 'Courier New', monospace"
+}

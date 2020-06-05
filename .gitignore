@@ -1,1 +1,7 @@
-.backup
+# Ignore everything...
+*
+
+# ... except preferences
+!.gitignore
+!settings.json
+!README.md

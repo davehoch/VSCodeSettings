@@ -36,6 +36,12 @@
             "database": "reporting",
             "authenticationType": "Integrated",
             "password": ""
+        },
+        {
+            "server": "do-envtrunk-01",
+            "database": "",
+            "authenticationType": "Integrated",
+            "password": ""
         }
     ],
     "window.zoomLevel": 1,

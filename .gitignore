@@ -3,6 +3,6 @@
 
 # ... except preferences
 !.gitignore
-!keybindings.json
 !settings.json
+!keybindings.json
 !README.md

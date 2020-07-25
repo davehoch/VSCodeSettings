@@ -6,8 +6,55 @@
             "authenticationType": "Integrated",
             "profileName": "dev-ui-db1",
             "password": ""
+        },
+        {
+            "server": "dev-guard-db1",
+            "database": "DataLayerQuery",
+            "authenticationType": "Integrated",
+            "password": ""
+        },
+        {
+            "server": "dev-res-db1",
+            "database": "reporting",
+            "authenticationType": "Integrated",
+            "password": ""
+        },
+        {
+            "server": "boi-recondb",
+            "database": "",
+            "authenticationType": "Integrated",
+            "password": ""
+        },
+        {
+            "server": "boi-reportdb",
+            "database": "",
+            "authenticationType": "Integrated",
+            "password": ""
+        },
+        {
+            "server": "st-reportdb",
+            "database": "reporting",
+            "authenticationType": "Integrated",
+            "password": ""
+        },
+        {
+            "server": "do-envtrunk-01",
+            "database": "",
+            "authenticationType": "Integrated",
+            "password": ""
         }
     ],
     "window.zoomLevel": 1,
-    "editor.fontFamily": "Consolas, Menlo, Monaco, 'Courier New', monospace"
+    "workbench.startupEditor": "newUntitledFile",
+    "mssql.resultsFontSize": 12,
+    "mssql.copyIncludeHeaders": true,
+    "mssql.format.datatypeCasing": "uppercase",
+    "mssql.format.keywordCasing": "uppercase",
+    "mssql.maxRecentConnections": 10,
+    "mssql.messagesDefaultOpen": false,
+    "mssql.resultsFontFamily": "",
+    "mssql.format.alignColumnDefinitionsInColumns": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 10,
+    "editor.fontFamily": "Menlo, Consolas, Monaco, 'Courier New', monospace"
 }
